@@ -1,5 +1,8 @@
 # Lab: Flask-SQLAlchemy Serialization
 
+![All tests passing](/passingtest.png)
+
+
 ## Scenario
 
 You are building a simplified e-commerce backend that manages customers, 
